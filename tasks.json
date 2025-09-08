@@ -1,0 +1,40 @@
+{
+    "task": [
+        {
+            "id": 0,
+            "title": "Feira de Empregabilidade",
+            "course": "Variados",
+            "due": {
+                "year": 2025,
+                "month": 9,
+                "day": 13
+            },
+            "description": "Evento da FATEC que contará com várias empresas patrocinadas para mostrar promover a busca de novas carreiras como também divulgação da faculdade.",
+            "submitMethod": "Presencial"
+        },
+        {
+            "id": 1,
+            "title": "Exercícios - História da computação",
+            "course": "Algoritmo e Lógica",
+            "due": {
+                "year": 2025,
+                "month": 9,
+                "day": 16
+            },
+            "description": "Os exercícios que constam são para trabalhar os conteúdos passados.",
+            "submitMethod": "Teams"
+        },
+        {
+            "id": 2,
+            "title": "Lista e exercicios sobre binários",
+            "course": "Algoritmo e Lógica",
+            "due": {
+                "year": 2025,
+                "month": 9,
+                "day": 16
+            },
+            "description": "Resolva os exercícios sobre conversão e operação de binários",
+            "submitMethod": "Teams"
+        }
+    ]
+}
