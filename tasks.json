@@ -1,0 +1,184 @@
+{
+    "task": [
+        {
+            "id": 0,
+            "title": "Modelo Conceitual",
+            "course": "Banco de Dados",
+            "due": {
+                "year": 2025,
+                "month": 9,
+                "day": 15
+            },
+            "description": "Realizar a modelagem de um modelo EER",
+            "submitMethod": "Teams"
+        },
+        {
+            "id": 1,
+            "title": "Exercícios - História da computação",
+            "course": "Algoritmo e Lógica",
+            "due": {
+                "year": 2025,
+                "month": 9,
+                "day": 16
+            },
+            "description": "Os exercícios que constam são para trabalhar os conteúdos passados.",
+            "submitMethod": "Teams"
+        },
+        {
+            "id": 2,
+            "title": "Lista e exercicios sobre binários",
+            "course": "Algoritmo e Lógica",
+            "due": {
+                "year": 2025,
+                "month": 9,
+                "day": 16
+            },
+            "description": "Resolva os exercícios sobre conversão e operação de binários",
+            "submitMethod": "Teams"
+        },
+        {
+            "id": 3,
+            "title": "Requisitos Funcionais",
+            "course": "Engenharia de Software",
+            "due": {
+                "year": 2025,
+                "month": 9,
+                "day": 16
+            },
+            "description": "Estruturar os requisitos funcionais de uma empresa",
+            "submitMethod": "A combinar"
+        },
+        {
+            "id": 4,
+            "title": "Prova Design Digital",
+            "course": "Design Digital",
+            "due": {
+                "year": 2025,
+                "month": 9,
+                "day": 27
+            },
+            "description": "A combinar",
+            "submitMethod": "A combinar"
+        },
+        {
+            "id": 5,
+            "title": "Prova Design Digital",
+            "course": "Design Digital",
+            "due": {
+                "year": 2025,
+                "month": 9,
+                "day": 29
+            },
+            "description": "A combinar",
+            "submitMethod": "A combinar"
+        },
+        {
+            "id": 6,
+            "title": "Seminário Microsoft SQL Server",
+            "course": "Banco de Dados",
+            "due": {
+                "year": 2025,
+                "month": 10,
+                "day": 17
+            },
+            "description": "Apresentação sobre Microsoft SQL Server do grupo: Diego Gonçalves, Bruno, Henrique, Lucas, Giovanna.",
+            "submitMethod": "Apresentação presencial"
+        },
+        {
+            "id": 7,
+            "title": "Seminário Oracle",
+            "course": "Banco de Dados",
+            "due": {
+                "year": 2025,   
+                "month": 10,
+                "day": 17
+            },
+            "description": "Apresentação sobre Oracle do grupo: Evandro, Anderson, Paulo Corolin, Diego Carlos, Emerson.",
+            "submitMethod": "Apresentação presencial"
+        },
+        {
+            "id": 8,
+            "title": "Seminário MySQL",
+            "course": "Banco de Dados",
+            "due": {
+                "year": 2025,   
+                "month": 10,
+                "day": 17
+            },
+            "description": "Apresentação sobre MySQL do grupo: João Ferraz, Paulo Henrique, Petrus.",
+            "submitMethod": "Apresentação presencial"
+        },
+        {
+            "id": 9,
+            "title": "Seminário PostgreSQL",
+            "course": "Banco de Dados",
+            "due": {
+                "year": 2025,   
+                "month": 10,
+                "day": 17
+            },
+            "description": "Apresentação sobre PostgreSQL do grupo: Kattlyn, Meirielen, Nicolas, Ariel, Thais.",
+            "submitMethod": "Apresentação presencial"
+        },
+        {
+            "id": 10,
+            "title": "Seminário Snowflake",
+            "course": "Banco de Dados",
+            "due": {
+                "year": 2025,   
+                "month": 10,
+                "day": 24
+            },
+            "description": "Apresentação sobre Snowflake do grupo: Matheus, João Salvador, André, Alan, Alex.",
+            "submitMethod": "Apresentação presencial"
+        },
+        {
+            "id": 11,
+            "title": "Seminário Redis",
+            "course": "Banco de Dados",
+            "due": {
+                "year": 2025,   
+                "month": 10,
+                "day": 24
+            },
+            "description": "Apresentação sobre Redis do grupo: Gabriel P, Giovani, Pietro, Rafael, Gaúcho.",
+            "submitMethod": "Apresentação presencial"
+        },
+        {
+            "id": 12,
+            "title": "Seminário MongoDB",
+            "course": "Banco de Dados",
+            "due": {
+                "year": 2025,   
+                "month": 10,
+                "day": 24
+            },
+            "description": "Apresentação sobre MongoDB do grupo: Roberta, Lucas Galvão, Marina, Henrick, Gabriela.",
+            "submitMethod": "Apresentação presencial"
+        },
+        {
+            "id": 13,
+            "title": "Página Web Simples",
+            "course": "Desenvolvimento Web I",
+            "due": {
+                "year": 2025,   
+                "month": 11,
+                "day": 5
+            },
+            "description": "Desenvolver uma página web funcional e estilizada utilizando HTML e CSS, com opção de incluir JavaScript para interatividade. O trabalho deve ser feito em grupos de até 5 alunos e pode ser desenvolvido em editores como notepad++, VS Code ou similares.",
+            "submitMethod": "A combinar"
+        },
+        {
+            "id": 14,
+            "title": "Desafios de Programação",
+            "course": "Desenvolvimento Web I",
+            "due": {
+                "year": 2025,   
+                "month": 11,
+                "day": 26
+            },
+            "description": "Identificar e corrigir erros em códigos HTML, CSS e JavaScript, além de propor melhorias e soluções para problemas apresentados.",
+            "submitMethod": "A combinar"
+        }
+    ]
+}
