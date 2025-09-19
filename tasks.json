@@ -2,80 +2,20 @@
     "task": [
         {
             "id": 0,
-            "title": "Modelo Conceitual",
-            "course": "Banco de Dados",
-            "due": {
-                "year": 2025,
-                "month": 9,
-                "day": 15
-            },
-            "description": "Realizar a modelagem de um modelo EER",
-            "submitMethod": "Teams"
-        },
-        {
-            "id": 1,
-            "title": "Exercícios - História da computação",
-            "course": "Algoritmo e Lógica",
-            "due": {
-                "year": 2025,
-                "month": 9,
-                "day": 16
-            },
-            "description": "Os exercícios que constam são para trabalhar os conteúdos passados.",
-            "submitMethod": "Teams"
-        },
-        {
-            "id": 2,
-            "title": "Lista e exercicios sobre binários",
-            "course": "Algoritmo e Lógica",
-            "due": {
-                "year": 2025,
-                "month": 9,
-                "day": 16
-            },
-            "description": "Resolva os exercícios sobre conversão e operação de binários",
-            "submitMethod": "Teams"
-        },
-        {
-            "id": 3,
-            "title": "Requisitos Funcionais",
+            "title": "DOCUMENTO DE REQUISITOS",
             "course": "Engenharia de Software",
             "due": {
                 "year": 2025,
                 "month": 9,
-                "day": 16
+                "day": 23
             },
-            "description": "Estruturar os requisitos funcionais de uma empresa",
-            "submitMethod": "A combinar"
+            "description": "Entrega do mapa mental dos requisitos e a visão geral.",
+            "submitMethod": "Teams"
         },
         {
-            "id": 4,
+            "id": 1,
             "title": "Prova Algoritmo",
             "course": "Algoritmo e Lógica",
-            "due": {
-                "year": 2025,
-                "month": 9,
-                "day": 22
-            },
-            "description": "A combinar",
-            "submitMethod": "A combinar"
-        },
-        {
-            "id": 5,
-            "title": "Prova Design Digital",
-            "course": "Design Digital",
-            "due": {
-                "year": 2025,
-                "month": 9,
-                "day": 27
-            },
-            "description": "A combinar",
-            "submitMethod": "A combinar"
-        },
-        {
-            "id": 6,
-            "title": "Prova Design Digital",
-            "course": "Design Digital",
             "due": {
                 "year": 2025,
                 "month": 9,
@@ -85,7 +25,31 @@
             "submitMethod": "A combinar"
         },
         {
-            "id": 7,
+            "id": 2,
+            "title": "Prova Design Digital",
+            "course": "Design Digital",
+            "due": {
+                "year": 2025,
+                "month": 9,
+                "day": 27
+            },
+            "description": "Prova P1",
+            "submitMethod": "A combinar"
+        },
+        {
+            "id": 3,
+            "title": "Apresentação dos Temas",
+            "course": "Sistemas Operacionais e Redes",
+            "due": {
+                "year": 2025,
+                "month": 10,
+                "day": 2
+            },
+            "description": "Apresentação dos grupos com os temas propostos em aula + Parte Escrita impressa",
+            "submitMethod": "Presencial"
+        },
+        {
+            "id": 4,
             "title": "Seminário Microsoft SQL Server",
             "course": "Banco de Dados",
             "due": {
@@ -97,7 +61,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 8,
+            "id": 5,
             "title": "Seminário Oracle",
             "course": "Banco de Dados",
             "due": {
@@ -109,7 +73,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 9,
+            "id": 6,
             "title": "Seminário MySQL",
             "course": "Banco de Dados",
             "due": {
@@ -121,7 +85,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 10,
+            "id": 7,
             "title": "Seminário PostgreSQL",
             "course": "Banco de Dados",
             "due": {
@@ -133,7 +97,19 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 11,
+            "id": 8,
+            "title": "Desenvolvimento Projeto Interdisciplinar",
+            "course": "Desenvolvimento Web I",
+            "due": {
+                "year": 2025,   
+                "month": 10,
+                "day": 22
+            },
+            "description": "Aula exclusiva para o desenvolvimento do trabalho (importante que levem um pen-drive para baixar o arquivo da página em desenvolvimento).",
+            "submitMethod": "Presencial"
+        },
+        {
+            "id": 9,
             "title": "Seminário Snowflake",
             "course": "Banco de Dados",
             "due": {
@@ -145,7 +121,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 12,
+            "id": 10,
             "title": "Seminário Redis",
             "course": "Banco de Dados",
             "due": {
@@ -157,7 +133,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 13,
+            "id": 11,
             "title": "Seminário MongoDB",
             "course": "Banco de Dados",
             "due": {
@@ -169,28 +145,112 @@
             "submitMethod": "Apresentação presencial"
         },
         {
+            "id": 12,
+            "title": "Desenvolvimento Projeto Interdisciplinar",
+            "course": "Desenvolvimento Web I",
+            "due": {
+                "year": 2025,   
+                "month": 10,
+                "day": 29
+            },
+            "description": "Aula exclusiva para o desenvolvimento do trabalho (importante que levem um pen-drive para baixar o arquivo da página em desenvolvimento).",
+            "submitMethod": "Presencial"
+        },
+        {
+            "id": 13,
+            "title": "Comprovante Cursos MOOC",
+            "course": "Design Digital",
+            "due": {
+                "year": 2025,   
+                "month": 11,
+                "day": 1
+            },
+            "description": "Opcional: Data Limite para a entrega dos comprovantes de realização dos cursos MOOC que auxiliam na nota das provas",
+            "submitMethod": "Forms do Teams"
+        },
+        {
             "id": 14,
-            "title": "Página Web Simples",
+            "title": "Trabalho Interdisciplinar - Primeiro dia",
             "course": "Desenvolvimento Web I",
             "due": {
                 "year": 2025,   
                 "month": 11,
                 "day": 5
             },
-            "description": "Desenvolver uma página web funcional e estilizada utilizando HTML e CSS, com opção de incluir JavaScript para interatividade. O trabalho deve ser feito em grupos de até 5 alunos e pode ser desenvolvido em editores como notepad++, VS Code ou similares.",
-            "submitMethod": "A combinar"
+            "description": "Desenvolver uma página web funcional e estilizada utilizando HTML e CSS, com opção de incluir JavaScript para interatividade. O trabalho deve ser feito em grupos de até 5 alunos e pode ser desenvolvido em editores como Notepad++, VS Code ou similares.",
+            "submitMethod": "Presencial/Teams"
         },
         {
             "id": 15,
-            "title": "Desafios de Programação",
+            "title": "Trabalho Interdisciplinar - Segundo dia",
+            "course": "Desenvolvimento Web I",
+            "due": {
+                "year": 2025,   
+                "month": 11,
+                "day": 13
+            },
+            "description": "Desenvolver uma página web funcional e estilizada utilizando HTML e CSS, com opção de incluir JavaScript para interatividade. O trabalho deve ser feito em grupos de até 5 alunos e pode ser desenvolvido em editores como Notepad++, VS Code ou similares.",
+            "submitMethod": "Presencial/Teams"
+        },
+        {
+            "id": 16,
+            "title": "Análise e Correção de Códigos Prontos",
             "course": "Desenvolvimento Web I",
             "due": {
                 "year": 2025,   
                 "month": 11,
                 "day": 26
             },
-            "description": "Identificar e corrigir erros em códigos HTML, CSS e JavaScript, além de propor melhorias e soluções para problemas apresentados.",
-            "submitMethod": "A combinar"
+            "description": "Serão fornecidos trechos de código (HTML + CSS + JS) com erros propositais. Os grupos devem identificar erros, explicar por que não funciona e reescrever o código corrigido.",
+            "submitMethod": "Presencial/Teams"
+        },
+        {
+            "id": 17,
+            "title": "Prova Design Digital",
+            "course": "Design Digital",
+            "due": {
+                "year": 2025,
+                "month": 11,
+                "day": 29
+            },
+            "description": "Prova P2",
+            "submitMethod": "Presencial/Teams"
+        },
+        {
+            "id": 18,
+            "title": "Melhorias e Otimizações",
+            "course": "Desenvolvimento Web I",
+            "due": {
+                "year": 2025,   
+                "month": 12,
+                "day": 3
+            },
+            "description": "Serão fornecidos códigos funcionais, mas mal otimizados. Cada grupo deve sugerir melhorias e justificar alterações.",
+            "submitMethod": "Presencial/Teams"
+        },
+        {
+            "id": 19,
+            "title": "Desafio Criativo",
+            "course": "Desenvolvimento Web I",
+            "due": {
+                "year": 2025,   
+                "month": 12,
+                "day": 10
+            },
+            "description": "Cada grupo receberá um problema para resolver do zero e deverá desenvolver uma solução em HTML, CSS e JS e explicar a lógica usada.",
+            "submitMethod": "Presencial/Teams"
+        },
+        {
+            "id": 20,
+            "title": "Notas da P3",
+            "course": "Design Digital",
+            "due": {
+                "year": 2025,
+                "month": 12,
+                "day": 13
+            },
+            "description": "Publicação das Notas dos cursos MOOC",
+            "submitMethod": "Presencial/Online"
         }
     ]
 }
