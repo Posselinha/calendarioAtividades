@@ -2,18 +2,6 @@
     "task": [
         {
             "id": 0,
-            "title": "DOCUMENTO DE REQUISITOS",
-            "course": "Engenharia de Software",
-            "due": {
-                "year": 2025,
-                "month": 9,
-                "day": 23
-            },
-            "description": "Entrega do mapa mental dos requisitos e a visão geral.",
-            "submitMethod": "Teams"
-        },
-        {
-            "id": 1,
             "title": "Prova Algoritmo",
             "course": "Algoritmo e Lógica",
             "due": {
@@ -21,35 +9,59 @@
                 "month": 9,
                 "day": 29
             },
-            "description": "A combinar",
-            "submitMethod": "A combinar"
+            "description": "Contéudo das aulas passadas. Geração dos Computadores, Estrutura e Organização dos HardWares, Exércicios com Binários.",
+            "submitMethod": "Presencial"
         },
         {
-            "id": 2,
-            "title": "Prova Design Digital",
-            "course": "Design Digital",
+            "id": 1,
+            "title": "DOCUMENTO DE REQUISITOS - RF e RNF do sistema",
+            "course": "Engenharia de Software",
             "due": {
                 "year": 2025,
                 "month": 9,
-                "day": 27
+                "day": 30
             },
-            "description": "Prova P1",
-            "submitMethod": "A combinar"
+            "description": "Agora você deverá montar o documento de RF e RNF do projeto. Para isso você deve escolher 10 RF e 10 RNF. E crie a visão geral explicando o funcionamento do sistema. Veja o modelo de Documento de requisitos em Anexo. Lembre-se de utilizar o material já estudado para tirar as dúvidas e ajudar no seu trabalho. ",
+            "submitMethod": "Teams"
         },
         {
-            "id": 3,
-            "title": "Apresentação dos Temas",
-            "course": "Sistemas Operacionais e Redes",
+            "id": 2,
+            "title": "Avaliação Escrita - Sistemas Operacionais",
+            "course": "Redes e Sistemas Operacionais",
             "due": {
                 "year": 2025,
                 "month": 10,
                 "day": 2
             },
+            "description": "Avaliação sobre os conteúdos passados em aula referentes a sistemas operacionais.",
+            "submitMethod": "Presencial"
+        },
+        {
+            "id": 3,
+            "title": "CADASTRO EMPRESA E GRUPO PROJETO",
+            "course": "Engenharia de Software",
+            "due": {
+                "year": 2025,
+                "month": 10,
+                "day": 10
+            },
+            "description": "Prazo final para a definição das empresas do projeto integrador",
+            "submitMethod": "Teams"
+        },
+        {
+            "id": 4,
+            "title": "Apresentação dos Temas",
+            "course": "Sistemas Operacionais e Redes",
+            "due": {
+                "year": 2025,
+                "month": 10,
+                "day": 16
+            },
             "description": "Apresentação dos grupos com os temas propostos em aula + Parte Escrita impressa",
             "submitMethod": "Presencial"
         },
         {
-            "id": 4,
+            "id": 5,
             "title": "Seminário Microsoft SQL Server",
             "course": "Banco de Dados",
             "due": {
@@ -61,7 +73,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 5,
+            "id": 6,
             "title": "Seminário Oracle",
             "course": "Banco de Dados",
             "due": {
@@ -73,7 +85,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 6,
+            "id": 7,
             "title": "Seminário MySQL",
             "course": "Banco de Dados",
             "due": {
@@ -85,7 +97,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 7,
+            "id": 8,
             "title": "Seminário PostgreSQL",
             "course": "Banco de Dados",
             "due": {
@@ -97,7 +109,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 8,
+            "id": 9,
             "title": "Desenvolvimento Projeto Interdisciplinar",
             "course": "Desenvolvimento Web I",
             "due": {
@@ -109,7 +121,7 @@
             "submitMethod": "Presencial"
         },
         {
-            "id": 9,
+            "id": 10,
             "title": "Seminário Snowflake",
             "course": "Banco de Dados",
             "due": {
@@ -121,7 +133,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 10,
+            "id": 11,
             "title": "Seminário Redis",
             "course": "Banco de Dados",
             "due": {
@@ -133,7 +145,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 11,
+            "id": 12,
             "title": "Seminário MongoDB",
             "course": "Banco de Dados",
             "due": {
@@ -145,7 +157,7 @@
             "submitMethod": "Apresentação presencial"
         },
         {
-            "id": 12,
+            "id": 13,
             "title": "Desenvolvimento Projeto Interdisciplinar",
             "course": "Desenvolvimento Web I",
             "due": {
@@ -157,7 +169,7 @@
             "submitMethod": "Presencial"
         },
         {
-            "id": 13,
+            "id": 14,
             "title": "Comprovante Cursos MOOC",
             "course": "Design Digital",
             "due": {
@@ -169,7 +181,7 @@
             "submitMethod": "Forms do Teams"
         },
         {
-            "id": 14,
+            "id": 15,
             "title": "Trabalho Interdisciplinar - Apresentação",
             "course": "Desenvolvimento Web I",
             "due": {
@@ -181,7 +193,7 @@
             "submitMethod": "Presencial/Teams"
         },
         {
-            "id": 15,
+            "id": 16,
             "title": "Trabalho Interdisciplinar - Apresentação",
             "course": "Desenvolvimento Web I",
             "due": {
@@ -193,8 +205,8 @@
             "submitMethod": "Presencial/Teams"
         },
         {
-            "id": 16,
-            "title": "Análise e Correção de Códigos Prontos",
+            "id": 17,
+            "title": "Case Desafio de Programação",
             "course": "Desenvolvimento Web I",
             "due": {
                 "year": 2025,   
@@ -205,7 +217,7 @@
             "submitMethod": "Presencial/Teams"
         },
         {
-            "id": 17,
+            "id": 18,
             "title": "Prova Design Digital",
             "course": "Design Digital",
             "due": {
@@ -217,7 +229,7 @@
             "submitMethod": "Presencial/Teams"
         },
         {
-            "id": 18,
+            "id": 19,
             "title": "Melhorias e Otimizações",
             "course": "Desenvolvimento Web I",
             "due": {
@@ -229,7 +241,7 @@
             "submitMethod": "Presencial/Teams"
         },
         {
-            "id": 19,
+            "id": 20,
             "title": "Desafio Criativo",
             "course": "Desenvolvimento Web I",
             "due": {
@@ -241,7 +253,7 @@
             "submitMethod": "Presencial/Teams"
         },
         {
-            "id": 20,
+            "id": 21,
             "title": "Notas da P3",
             "course": "Design Digital",
             "due": {
